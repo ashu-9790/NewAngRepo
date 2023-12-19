@@ -11,4 +11,5 @@ export class AppComponent {
   today=Date.now();
   word="Hello How Are you"
   val=10
+  va = "Ashish"
 }
